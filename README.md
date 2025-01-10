@@ -1,5 +1,6 @@
 # 💫 About Me:
 - 🛠  Currently working on a reverse engineering toolkit and cyber security toolkit<br>
+- 🛠  Currently working on a DAW (Digital Audio Workstation) written in Rust<br>
 
 
 # 💻 Tech Stack:
