@@ -1,10 +1,5 @@
 ### Hi, I'm Aidan 👋
 
-### A short statement
-If you like my work, and would like to donate, consider putting that money to a charity that does some good.
-
-I'd personally recommend the [Marine Conservation Society](https://www.mcsuk.org/make-a-donation/) however any charity will do!
-
 ### A little bit about me ℹ️
 
 - Currently working on a reverse engineering toolkit and cyber security toolkit
