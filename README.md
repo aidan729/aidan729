@@ -20,10 +20,10 @@
 
 ### Key projects 🔑
 
-#### [Reverse Engineering Toolkit](#)
+#### Reverse Engineering Toolkit - (Coming Soon)
 My main project is a reverse engineering toolkit, which helps in analyzing and deconstructing software to understand how they work. This toolkit is designed to be accessible for anyone interested in reverse engineering, whether you're a beginner or an expert.
 
-#### [DAW in Rust](#)
+#### DAW in Rust - (Coming Soon)
 I'm also working on a Digital Audio Workstation (DAW) written in Rust. The goal of this project is to create a fast, efficient, and powerful platform for music production, focusing on low-latency performance and stability.
 
 ### Stats 📊
