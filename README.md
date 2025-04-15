@@ -2,7 +2,7 @@
 
 ### A little bit about me ℹ️
 
-- Currently working on a reverse engineering toolkit and cyber security toolkit
+- Currently working on a reverse engineering toolkit
 - Currently working on a DAW (Digital Audio Workstation) written in Rust
 - Passionate about cyber security, reverse engineering, and audio software development
 
