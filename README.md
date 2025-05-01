@@ -10,7 +10,7 @@
 ![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,cs,python,zig,typescript,javascript)
 
 #### Frontend tooling
-![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,electron)
 
 #### Other tools/technologies
 ![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,aws,arch,docker,discord,qt,supabase,astro)
