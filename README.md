@@ -26,12 +26,5 @@ My main project is a reverse engineering toolkit, which helps in analyzing and d
 #### **DAW in Rust - (Coming Soon)**
 I'm also working on a Digital Audio Workstation (DAW) written in Rust. The goal of this project is to create a fast, efficient, and powerful platform for music production, focusing on low-latency performance and stability.
 
-### Stats
-_Using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-![Aidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidan729&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aidan729)
-
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aidan729&theme=radical&no-frame=false&no-bg=true&margin-w=4)
