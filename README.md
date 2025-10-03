@@ -7,7 +7,7 @@
 - Passionate about cyber security, reverse engineering, and audio software development
 
 #### Known languages
-![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,cs,python,zig,typescript,javascript)
+![My Skills](https://skillicons.dev/icons?i=rust,c,cpp,cs,python,zig,typescript,javascript,go)
 
 #### Frontend tooling
 ![My Skills](https://skillicons.dev/icons?i=react,vue,js,html,css,electron)
